@@ -2,18 +2,18 @@
 
 
 
-# ¡Hey, bienvenidos! #
+# ¡Hey, bienvenidos! 
 
 [<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/kotlin-283155.png" alt="kotlin" width="100">](https://kotlinlang.org/docs/home.html)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/android-3521272-2944776.png" alt="android" width="100">](https://developer.android.com/reference)
-### 👨🏻‍💻 &nbsp;Sobre mí
+## 👨🏻‍💻 Sobre mí:
 
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.\
 🎓 &nbsp;He estudiado un grado superior de desarrollo de aplicaciones multiplataforma.\
 ✍️ &nbsp;En mi tiempo libre estudio sobre como puedo mejorar mis habilidades y conocimientos.\
 
-# 💻 Tecnologías:
+## 💻 Tecnologías:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -29,7 +29,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
-### ⚙️ &nbsp;Analiticas de github
+## ⚙️ Analiticas de github
 
 <p align="center">
 <a href="https://github.com/alexito8473">
