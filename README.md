@@ -35,6 +35,12 @@
 <a href="https://github.com/alexito8473">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexito8473&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexito8473&layout=compact&langs_count=8&theme=algolia"/>
+  <br>
+   <br>
+   <br>
+  <img style="border-radius: 15px; border: 5px solid white;" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexito8473&theme=algolia"/>
+  <img  height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexito8473&theme=algolia&utcOffset=8"/>
 </a>
 </p>
+ 
 
